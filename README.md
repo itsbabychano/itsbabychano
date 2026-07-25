@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm JOHN CHRISTIAN</h1>
-<h3 align="center">A Computer Science student from the PHILIPPINES</h3>
+<h3 align="center">A Computer Science graduate from the PHILIPPINES</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsbabychano&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
